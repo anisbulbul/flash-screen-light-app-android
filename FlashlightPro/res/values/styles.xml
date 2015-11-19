@@ -1,0 +1,26 @@
+<resources>
+
+    <style name="textStyleBig" parent="@android:style/Widget.TextView">
+        <item name="android:shadowColor">#00ccff</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1.5</item>
+        <item name="android:textSize">30dp</item>
+    </style>
+
+    <style name="textStyleMedium" parent="@android:style/Widget.TextView">
+        <item name="android:shadowColor">#00aaff</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1.5</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <style name="textStyleSmall" parent="@android:style/Widget.TextView">
+        <item name="android:shadowColor">#00ccff</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1.5</item>
+        <item name="android:textSize">10dp</item>
+    </style>
+</resources>
